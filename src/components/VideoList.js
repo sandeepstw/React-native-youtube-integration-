@@ -44,7 +44,7 @@ class VideoList extends Component {
       return (
           <View style={styles.navBar}>
               <TouchableOpacity style={styles.logo} >
-                  <Text style={styles.text}>Our Videos</Text>
+                  <Text style={styles.text}>Pankaj Bhadouria Masterchef</Text>
               </TouchableOpacity>
           </View>
       );
@@ -63,8 +63,8 @@ class VideoList extends Component {
         source={{ uri: video.thumbnail }}
         />
         <CardInner>
-            <Button 
-              onPress={() => this.props.navigation.navigate('ViewVideo', { vidid: video.id })}
+            <Button
+              onPress={() => this.props.navigation.navigate('ViewVideo', { vidid: video.id, vidtitle: video.title })}
             >
                 View
             </Button>
