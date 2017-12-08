@@ -24,5 +24,11 @@ IOS and Android
 
 ![Alt text](/screenshots/Screenshot_20171208-104302.png?raw=true "Home Screen")
 
+![Alt text](/screenshots/Screenshot_20171208-104313.png?raw=true "Listing Video")
+
+![Alt text](/screenshots/Screenshot_20171208-104319.png?raw=true "Video View Screen")
+
+![Alt text](/screenshots/Screenshot_20171208-104334.png?raw=true "Video View Screen")
+
 
 
